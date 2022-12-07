@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/github-header-image.png)
+![logo](https://github.com/shaikharyan/Aryanshaikh/blob/main/github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Arshiyan Shaikh</h1>
 <h3 align="center">A Passionate Web Developer from India</h3>
