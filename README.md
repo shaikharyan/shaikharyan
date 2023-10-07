@@ -28,6 +28,9 @@
 <a href="https://linkedin.com/in/aryan-shaikh-b127851ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-shaikh-b127851ba/" height="30" width="40" /></a>
 </p>
 
+[![An image of @shaikharyan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shaikharyan)](https://holopin.io/@shaikharyan)
+[![An image of @shaikharyan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shaikharyan)](https://holopin.io/@shaikharyan)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaikharyan" alt="shaikharyan" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
