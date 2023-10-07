@@ -29,7 +29,6 @@
 </p>
 
 [![An image of @shaikharyan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shaikharyan)](https://holopin.io/@shaikharyan)
-[![An image of @shaikharyan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shaikharyan)](https://holopin.io/@shaikharyan)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaikharyan" alt="shaikharyan" /></a> </p>
 
