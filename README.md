@@ -1,4 +1,4 @@
-![logo](https://github.com/shaikharyan/Aryanshaikh/blob/main/purple.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Aryan Shaikh</h1>
 <h3 align="center">A Passionate Web Developer from India</h3>
