@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **some projects.**
 
-- 🌱 I’m currently learning **React.JS, DSA in C++/JAVA and**
+- 🌱 I’m currently learning **React.JS, DSA in C++ and**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
