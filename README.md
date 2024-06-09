@@ -7,6 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikharyan&label=Profile%20views&color=0e75b6&style=flat" alt="shaikharyan" /> </p>
 
+### About me
+
 - 🔭 I’m currently working on **some projects.**
 
 - 🌱 I’m currently learning **NextJS, DSA in C++ and**
@@ -28,7 +30,9 @@
 <a href="https://linkedin.com/in/aryan-shaikh-b127851ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-shaikh-b127851ba/" height="30" width="40" /></a>
 </p>
 
-### Tech Stack I am Familiar With:
+
+<h3 align="center">Tech Stack I am Familiar With:</h3>
+<hr>
 
 <p align="center">
 <br/>
@@ -46,8 +50,12 @@
 <br/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaikharyan&show_icons=true&locale=en&layout=compact" alt="shaikharyan" /></p>
+## 🏆 Github Status
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaikharyan&show_icons=true&locale=en" alt="shaikharyan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaikharyan&" alt="shaikharyan" /></p>
+<!-- <img  src="https://github-readme-stats.vercel.app/api?username=chaitanyashimpi&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" > -->
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=shaikharyan&theme=radical" width="48%" align="left">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaikharyan&&show_icons=true&theme=radical" alt="Chaitany's Github Stats" width="48%" align="right">
+<br>
+
+
