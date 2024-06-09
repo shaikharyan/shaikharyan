@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **NextJS, DSA in C++ and**
 
-- 👯 I’m looking to collaborate on **Open Source**
+- 👯 Open for contributing to **Open Source**.
 
 - 👨‍💻 All of my projects are available at [https://shaikharyan.github.io/Aryanportfolio/](https://shaikharyan.github.io/Aryanportfolio/)
 
