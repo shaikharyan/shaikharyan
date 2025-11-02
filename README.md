@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **some projects.**
 
-- 🌱 I’m currently learning **NextJS, DSA in C++ and**
+- 🌱 I’m currently learning **Integration and Cloud AWS**
 
 - 👯 Open for contributing to **Open Source**.
 
