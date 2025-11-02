@@ -22,9 +22,9 @@
 
 - 📫 How to reach me **arsahiyansk2000@gmail.com**
 
-- 📄 Know about my experiences [https://shaikharyan.github.io/Aryanportfolio/](https://shaikharyan.github.io/Aryanportfolio/)
+- 📄 Know about my experiences (https://aryanshaikh.vercel.app/)
 
-- ⚡ Fun fact **I love to learn new skills😍**
+- ⚡ Fun fact **Most Developers Are Self Taught**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
