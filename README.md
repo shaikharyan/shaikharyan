@@ -1,5 +1,5 @@
 
-
+![MasterHead](https://user-images.githubusercontent.com/45071341/130478494-21f091d1-f61e-4f35-b16f-e2b0763f7e04.gif)
 <h1 align="center">Hi 👋, I'm Aryan Shaikh</h1>
 <h3 align="center">A Passionate Web Developer from India</h3>
 
