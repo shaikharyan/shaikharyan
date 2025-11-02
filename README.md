@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shaikharyan.github.io/Aryanportfolio/](https://shaikharyan.github.io/Aryanportfolio/)
 
-- 💬 Ask me about **Frontend Technologies**
+- 💬 Ask me about **Frontend Technologies and Integration Services**
 
 - 📫 How to reach me **arsahiyansk2000@gmail.com**
 
