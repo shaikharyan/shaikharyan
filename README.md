@@ -73,10 +73,12 @@
 
 ## 🏆 Github Status
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaikharyan&" alt="shaikharyan" /></p>
+
 
 <!-- <img  src="https://github-readme-stats.vercel.app/api?username=chaitanyashimpi&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" > -->
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=shaikharyan&theme=radical" width="48%" align="left">
+<!-- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=shaikharyan&theme=radical" width="48%" align="left">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=shaikharyan&&show_icons=true&theme=radical" alt="Aryan's Github Stats" width="48%" align="right">
-<br>
+<br> -->
 
 
