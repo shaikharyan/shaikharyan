@@ -20,8 +20,6 @@
 
 - 📫 How to reach me **arsahiyansk2000@gmail.com**
 
-- 📄 Know about my experiences (https://aryanshaikh.vercel.app/)
-
 - ⚡ Fun fact **Most Developers Are Self Taught**
 
 <h3 align="left">Connect with me:</h3>
