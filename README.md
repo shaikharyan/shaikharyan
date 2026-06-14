@@ -16,8 +16,6 @@
 
 - 👯 Open for contributing to **Open Source**.
 
-- 👨‍💻 All of my projects are available at [https://aryanshaikh.vercel.app/](https://aryanshaikh.vercel.app/)
-
 - 💬 Ask me about **Frontend Technologies and Integration Services**
 
 - 📫 How to reach me **arsahiyansk2000@gmail.com**
